@@ -1,4 +1,4 @@
-# REM Example Repo
+# REM Reference Repo
 
 The REM Database Schema I designed/architected with <b>120 models</b> can be seen here under <b>app/models</b>. 
 
