@@ -1,6 +1,6 @@
 # REM DB Models
 
-The REM Database Schema I designed/architected with <b>120 models</b> can be seen here under <b>app/models</b>. 
+The REM Database Schema I designed/architected with <b>120 models</b> can be seen here under <b>app/models</b>. There are some instances where NoSQL/document store would have been better. I did not understand how it worked at the time, now I do.
 
 This code was written between 2014-2017 and demonstrates experience with <b>Laravel/Querying/DBs/etc</b> while giving a sneak peek of the <b>depth and complexity of work</b> I architected at REM. Especially when looking at the data models.
 
